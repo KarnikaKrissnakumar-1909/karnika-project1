@@ -1,0 +1,104 @@
+                                                                                                    SMART BLIND STICK
+                
+
+
+
+
+
+
+                          
+
+                                                                                                        DONE BY:
+                            
+                                                                                                   KARNIKA KRISSNAKUMAR
+                                                                                                        ECE DEPT
+ 
+       SMART BLIND STICK
+OBJECTIVE:
+ 
+         The main aim of this project is to assist blind persons without human need.
+
+COMPONENTS USED:
+   
+•	Arduino board (uno)
+•	Bread board
+•	Buzzer
+•	Ultrasonic sensor
+•	LCD display(16x2)
+•	Bluetooth module
+•	Gyroscope (accelerometer included)
+
+
+CIRCUIT DIAGRAM:
+
+
+
+                                         
+                              
+  
+
+                          
+1.	USING ULTRASONIC SENSOR
+2.	LCD DISPLAY USING BLUETOOTH MODULE
+3.	CALCULATING ANGULAR VELOCITY GYROSCOPIC
+
+USES:
+Arduino board:
+
+Arduino is an open-source electronics platform based on easy-to-use hardware and software.
+
+
+
+
+
+
+
+
+
+Buzzer:
+
+A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
+
+ 
+Ultrasonic sensor: 
+
+An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. 
+       
+
+
+
+
+
+
+LCD display (16x2):
+A 16x2 LCD means it can display 16 characters per line and there are 2 such lines. In this LCD each character is displayed in 5x7 pixel matrix. The 16 x 2 intelligent alphanumeric dot matrix display is capable of displaying 224 different characters and symbols. This LCD has two registers, namely, Command and Data.
+
+  
+Bluetooth module:
+A 16x2 LCD means it can display 16 characters per line and there are 2 such lines. In this LCD each character is displayed in 5x7 pixel matrix. The 16 x 2 intelligent alphanumeric dot matrix display is capable of displaying 224 different characters and symbols. This LCD has two registers, namely, Command and Data.
+
+
+
+
+
+
+
+
+Gyroscope:
+
+Gyro sensors, also known as angular rate sensors or angular velocity sensors, are devices that sense angular velocity. Angular velocity. In simple terms, angular velocity is the change in rotational angle per unit of time. Angular velocity is generally expressed in deg/s (degrees per second).
+
+
+WORKING:
+
+Ultrasonic sensor is used to detect objects which are attached to the ground. When we turn on the circuit power supply, at the same time the Ultrasonic sensors are transmitting ultrasonic sound waves from the transmitter parts. when any objects come in front of these sensors, then the ultrasonic sound waves reflect back from the object surface to the sensor receiver part, then the sensor receives this wave and generates Output. This output data goes to the Arduino uno. Then the Arduino calculates the distance between the sensor and the objects. Then the Arduino sends operating voltage to the Buzzer.  Now the buzzer generates sound. A LCD display using arduino and Bluetooth especially for dumb and blind people in which message is sended via Bluetooth so that they can communicate to other people easily and effectively. Gyro sensors, also known as angular rate sensors or angular velocity sensors, are devices that sense angular velocity.so that we can calculate the angular velocity. in this sensor accelerometer also included so that we can calculate the acceleration.
+EXPERIMENTAL RESULT:
+
+ 
+
+
+CONCLUSION :
+The Blind stick has been at last made into a model which can utilized to direct the visually impaired. It intends to tackle the issues looked at by visually impaired individuals in their everyday life. The framework likewise takes the action to guarantee their security. This undertaking will work to help everyone of the visually and dumb individuals on the planet to make them simpler to walk wherever they need. It was done to assist individuals with handicaps that are heedless to work with the development and increment security.
+
+
+
